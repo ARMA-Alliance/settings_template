@@ -1,0 +1,3 @@
+
+// This will crash the mission on a dedicated server if the file is not present in the mission.
+cba_settings_hasSettingsFile = 1;
